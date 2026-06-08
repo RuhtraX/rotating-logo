@@ -1,18 +1,8 @@
-![Logo](https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png)
-
 # 3D Rotating Logo
 
 A lightweight web experiment that generates a dynamic website displaying my logo layered across different **Z-axis positions**, rotating to create a **3D depth illusion** using pure web technologies.
 
 This project focuses on visual layering, perspective transforms, and animation timing to simulate depth without using WebGL or external 3D engines.
-
----
-
-## ✨ Preview
-
-![3D Logo Render](./3D_logo_Render.gif)
-
----
 
 ## 🚀 Features
 
@@ -36,8 +26,7 @@ The illusion is created by:
 
 This creates the appearance of a volumetric rotating object using only 2D elements.
 
-
 \
 \
 \
-If you have any feedback, please reach out to me at Squidly1408@Gmail.com
+If you have any feedback, please reach out Squidly1408@Gmail.com
